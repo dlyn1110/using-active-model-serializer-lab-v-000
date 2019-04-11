@@ -9,7 +9,7 @@ RSpec.describe ProductsController, type: :controller do
     @product_attributes = {name: "Test", price: "3.99", inventory: 12, description: "This is a great thing"}
   end
 
-#   describe "POST create" do
+  describe "POST create" do
 #
 #     # it 'creates a new product' do
 #     #   post :create, product: @product_attributes
