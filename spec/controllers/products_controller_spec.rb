@@ -17,7 +17,7 @@ RSpec.describe ProductsController, type: :controller do
 # #     #   expect(Product.count).to eq 1
 # #     # end
 # #
-# #   # end
+   end
 # #
 # #   # describe "GET show" do
 # #   #   it 'returns a JSON representation of the product' do
